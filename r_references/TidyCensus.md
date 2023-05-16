@@ -8,7 +8,7 @@ The Importance of the American Community Survey and the Decennial Census https:/
   
 
 ### Online Web Books 
-Online home of Analyzing US Census Data: Methods, Maps, and Models in R, -- the Book was just released on February 16, 2023! 
+Online home of [*Analyzing US Census Data: Methods, Maps, and Models in R*](https://walker-data.com/census-r/index.html), -- the Book was just released on February 16, 2023! 
 
  
 
