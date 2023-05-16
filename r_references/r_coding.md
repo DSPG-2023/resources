@@ -1,23 +1,15 @@
 ### R coding 
 
- 
-
 #### Online Web Books and web resources to help you get started with R 
  
 
-R for Data Science – Hadley Wickham & Garrett Grolemund 
-
-2nd ed. Sometime in early 2023; http://r4ds.hadley.nz/ 
-
-1st ed. January 2017; https://r4ds.had.co.nz/index.html  
-
-Introduction to R by Claudia A Engel https://cengel.github.io/R-intro/ 
-
-Data Wrangling with R https://cengel.github.io/R-data-wrangling/ 
-
-Using Spatial Data with R https://cengel.github.io/R-spatial/ 
-
-Text Analysis with R https://cengel.github.io/R-text-analysis/ 
+- R for Data Science – Hadley Wickham & Garrett Grolemund. 
+  - 2nd ed. Sometime in early 2023; http://r4ds.hadley.nz/ 
+  - 1st ed. January 2017; https://r4ds.had.co.nz/index.html  
+- Introduction to R by Claudia A Engel https://cengel.github.io/R-intro/ 
+- Data Wrangling with R https://cengel.github.io/R-data-wrangling/ 
+- Using Spatial Data with R https://cengel.github.io/R-spatial/ 
+- Text Analysis with R https://cengel.github.io/R-text-analysis/ 
 
  
 
@@ -29,17 +21,15 @@ Cookbook for R – not complete but useful nonetheless http://www.cookbook-r.com
 
  
 
-Available online from ISU Library 
-
-R cookbook : proven recipes for data analysis, statistics, and graphics 2019 
-
-R markdown cookbook 2021 
+#### Available online from ISU Library 
+- R cookbook : proven recipes for data analysis, statistics, and graphics 2019 
+- R markdown cookbook 2021 
 
 Older article, but interesting. ggmap: Spatial Visualization with ggplot2 Kahle, David ; Wickham, Hadley. The R journal, 2013, Vol.5 (1), p.144 
 
 Also at https://journal.r-project.org/archive/2013/RJ-2013-014/RJ-2013-014.pdf  
 
-YouTube 
+#### YouTube 
 
 RStudio for the Total Beginner ~6' While short, this provides a comprehensive beginner look at the RStudio Interface  
 
@@ -49,9 +39,7 @@ R programming in one hour - a crash course for beginners ~60' So this is very fa
 
  
 
- 
-
-Mapping and Plotting in R 
+#### Mapping and Plotting in R 
 Several resources  
 
 Making Maps with R covers tmap, ggplot2, mapview, mapdeck, leaflet 
@@ -62,9 +50,8 @@ Geocomputation with R, a book on geographic data analysis, visualization and mod
 
  
 
- 
 
-Other Resources of interest 
+#### Other Resources of interest 
 
 R Packages – Hadley Wickham's book describing how to make an R package 
 
@@ -72,9 +59,7 @@ R Packages – Hadley Wickham's book describing how to make an R package
 
  
 
- 
-
-RStudio Utilities 
+#### RStudio Utilities 
 
 Official cheatsheets on GitHub and on POSIT website 
 
@@ -84,7 +69,8 @@ Coding etiquette Writing clear, informative and easy to use code
 
 Tidyverse study guide by Hadley Wickham.  
 
-Color 
+
+#### Color 
 
 Codebook for R Colors (ggplot2) 
 
