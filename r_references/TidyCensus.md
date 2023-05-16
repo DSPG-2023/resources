@@ -3,14 +3,10 @@
  
 
 ### Web Sites 
-The Importance of the American Community Survey and the Decennial Census https://www.census.gov/programs-surveys/acs/about/acs-and-census.html 
-
-  
+[*The Importance of the American Community Survey and the Decennial Census*](https://www.census.gov/programs-surveys/acs/about/acs-and-census.html)
 
 ### Online Web Books 
 Online home of [*Analyzing US Census Data: Methods, Maps, and Models in R*](https://walker-data.com/census-r/index.html), -- the Book was just released on February 16, 2023! 
-
- 
 
 ### Tutorial Lecture Videos 
 - Kyle Walkers materials for ACS and TidyCensus workshops given at SSDAN / University of Michigan
