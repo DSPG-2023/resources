@@ -13,14 +13,13 @@ Online home of Analyzing US Census Data: Methods, Maps, and Models in R, -- the 
  
 
 ### Tutorial Lecture Videos 
-Kyle Walkers materials for ACS and TidyCensus workshops given at SSDAN / University of Michigan
+- Kyle Walkers materials for ACS and TidyCensus workshops given at SSDAN / University of Michigan
 
-**2023 version**
+-- **2023 version**
  
-
 Repo https://github.com/walkerke/umich-workshop-2023  
 
-Workshop cover page https://walker-data.com/umich-workshop-2023/  
+Workshop cover page, includes slide presentations https://walker-data.com/umich-workshop-2023/  
 
 ##### Lecture 1 February 8, 2023: Working with the 2021 American Community Survey with R and tidycensus 
 - Video https://www.youtube.com/watch?v=1WKAeM8yR-0&t=4s  
