@@ -1,7 +1,7 @@
 #### DSPG Exercise 1
 
 
-![jet photo](https://url/to/img.png](https://cdn.jetphotos.com/full/6/59387_1668037640.jpg)
+![jet photo](https://cdn.jetphotos.com/full/6/59387_1668037640.jpg)
 
 
 In this exercise, you will be using your data wrangling and analytical skills to present whatever you can using data from FlightRadar. https://www.flightradar24.com
