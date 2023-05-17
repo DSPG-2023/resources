@@ -1,5 +1,10 @@
 #### DSPG Exercise 1
 
+
+![jet photo]([http://url/to/img.png](https://cdn.jetphotos.com/full/6/59387_1668037640.jpg))
+
+
+
 In this exercise, you will be using your data wrangling and analytical skills to present whatever you can using data from FlightRadar. https://www.flightradar24.com
 
 I suggest you start with the Data/History menu.
@@ -30,7 +35,7 @@ After this individual work, spend 15 minutes as a team reviewing the ideas and c
 
 Spend one hour as a team working on the project and create a presentation (could be PowerPoint, but might be something else!) 
 
-11:00 am – Presentations in room 311 East Hall by each team - Wait for Chris to arrive back from his other meeting!
+11:00 am – Presentations will be in room 311 East Hall by each team - *Wait for Chris to arrive back from his other meeting!*
 
 Introduce DSPG team to whole group and present the result of the team’s data science exercise. Following the presentation tell me a bit about what each person of the team contributed. Grad students can particiapte, but only do your portion of the project! Even if you don't have the DS skill yet to do an analysis step, I know you all know how to use Google and there are many additional data points that you could combine with this!
 
