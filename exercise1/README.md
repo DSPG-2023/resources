@@ -10,4 +10,8 @@ Use the skills you have for this exercise, if Excel, R, Python or Tableau are wh
 
 I am providing a few files in this directory to help you.
 
+- **DSM Scheduled Flights vs actual.xlsx** Scheduled and Actual Flights arriving at the Des Moines Airport from April 9, 2020 to May 16, 2023 in long format
+- **number-of-commercial-flights-all.xls** Includes the number and 7-day moving average of all flights tracked in wide format
+- **total-number-of-flights-all.xls** Includes the number and 7-day moving average of all commercial flights tracked in wide format
+
 
