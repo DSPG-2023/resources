@@ -10,6 +10,7 @@ Use the skills you have for this exercise, if Excel, R, Python or Tableau are wh
 
 I am providing a few files in this directory to help you.
 - **DSM Scheduled Flights vs actual.xlsx** Scheduled and Actual Flights arriving at the Des Moines Airport from April 9, 2020 to May 16, 2023 in long format
+- **Des Moines Airline data following Thanksgiving 2021.xlsx** Each flight arrivinh and departing from Des Moines 11/28/21 - 2/1/2022 - note I had to create this list by visiting https://www.flightradar24.com/data/airports/dsm/arrivals and showing hte earlier flights. I then copied this data to a spreadsheet. I had to do this about every 36 hours for 2 months. *Hint, you could go to any airport in the world and get this for the last ~36 hours.*
 - **number-of-commercial-flights-all.xls** Includes the number and 7-day moving average of all flights tracked in wide format
 - **total-number-of-flights-all.xls** Includes the number and 7-day moving average of all commercial flights tracked in wide format
 
