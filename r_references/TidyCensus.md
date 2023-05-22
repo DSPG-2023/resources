@@ -9,7 +9,7 @@
 Online home of [*Analyzing US Census Data: Methods, Maps, and Models in R*](https://walker-data.com/census-r/index.html), -- the Book was just released on February 16, 2023! 
 
 ### Tutorial Lecture Videos 
-- Kyle Walkers materials for ACS and TidyCensus workshops given at SSDAN / University of Michigan
+- Kyle Walker's materials for ACS and TidyCensus workshops given at SSDAN / University of Michigan
   - **2023 version**
     - Repo https://github.com/walkerke/umich-workshop-2023  
     - Workshop cover page, includes slide presentations https://walker-data.com/umich-workshop-2023/  
